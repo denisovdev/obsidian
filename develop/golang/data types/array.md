@@ -1,6 +1,6 @@
 #data-type 
 
-**array** is a fixed-length sequence that store homogeneous elements in the memory. 
+***[[array]]*** is a fixed-length sequence that store homogeneous elements in the memory. 
 ### one-dimensional array creating:
 using ***var*** keyword
 ```go
