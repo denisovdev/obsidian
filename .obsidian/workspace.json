@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/golang/data types/slice.md",
-                "mode": "preview",
+                "file": "develop/golang/data transfer methods/WebSocket.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "develop/golang/data types/slice.md",
+                "file": "develop/golang/data transfer methods/WebSocket.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/golang/data types/slice.md",
+                "file": "develop/golang/data transfer methods/WebSocket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/golang/data types/slice.md",
+                "file": "develop/golang/data transfer methods/WebSocket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/golang/data types/slice.md"
+                "file": "develop/golang/data transfer methods/WebSocket.md"
               }
             }
           }
@@ -184,6 +184,13 @@
   },
   "active": "1d1eb198a791b48b",
   "lastOpenFiles": [
+    "develop/golang/data transfer methods/gRPC.md",
+    "develop/golang/data transfer methods/WebSocket.md",
+    "develop/golang/data transfer methods/Rest API.md",
+    "develop/docker/docker-compose.md",
+    "develop/docker/docker.md",
+    "develop/golang/data types/slice.md",
+    "develop/golang/data types/array.md",
     "english/dictionary.md",
     "dictionary.md",
     "Untitled.md",
@@ -191,14 +198,10 @@
     "english/english.md",
     "english.md",
     "english",
-    "develop/golang/data types/array.md",
-    "develop/golang/data types/slice.md",
     "develop/golang/golang.md",
     "src/array.png",
     "src/array.png",
     "Pasted image 20240224034924.png",
-    "develop/docker/docker-compose.md",
-    "develop/docker/docker.md",
     "docker compose.md",
     "develop/develop.md",
     "Untitled 1.canvas",
@@ -215,13 +218,10 @@
     "golang/data types.md",
     "golang/data transfer methods/data transfer methods.md",
     "develop/golang/data types",
-    "develop/golang/data transfer methods/Rest API.md",
     "develop/golang/data transfer methods",
     "develop/golang",
-    "develop/golang/data transfer methods/gRPC.md",
     "data transfer.md",
     "RestAPI.md",
-    "develop/golang/data transfer methods/gRPC.md",
     "golang/data transfer.md"
   ]
 }
