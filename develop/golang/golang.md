@@ -1,6 +1,6 @@
 #language 
 
-### **How to install**
+#### **How to install**
 **mac os:**
 ```zsh
 brew install go
@@ -10,13 +10,13 @@ brew install go
 ```zsh
 #idk
 ```
-### **data types**
+#### **data types**
 [[array]]
 [[slice]]
 [[map]]
 
 
-### **data transfer methods**
+#### **data transfer methods**
 [[Rest API]]
 [[gRPC]]
 [[WebSocket]]

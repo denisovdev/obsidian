@@ -3,6 +3,7 @@
 
 **tools**
 [[docker]]
+[[k8s]]
 
 **databases**
 [[postgres]]
