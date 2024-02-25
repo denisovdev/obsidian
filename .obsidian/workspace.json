@@ -184,8 +184,9 @@
   },
   "active": "1d1eb198a791b48b",
   "lastOpenFiles": [
-    "develop/golang/data transfer methods/WebSocket.md",
+    "develop/golang/data types/map.md",
     "develop/golang/golang.md",
+    "develop/golang/data transfer methods/WebSocket.md",
     "develop/golang/data transfer methods/Rest API.md",
     "develop/golang/data transfer methods/gRPC.md",
     "develop/docker/docker-compose.md",
