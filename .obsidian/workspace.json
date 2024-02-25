@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "develop/golang/data transfer methods/WebSocket.md",
+                "file": "develop/golang/golang.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "develop/golang/data transfer methods/WebSocket.md",
+                "file": "develop/golang/golang.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "develop/golang/data transfer methods/WebSocket.md",
+                "file": "develop/golang/golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "develop/golang/data transfer methods/WebSocket.md",
+                "file": "develop/golang/golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "develop/golang/data transfer methods/WebSocket.md"
+                "file": "develop/golang/golang.md"
               }
             }
           }
@@ -184,9 +184,10 @@
   },
   "active": "1d1eb198a791b48b",
   "lastOpenFiles": [
-    "develop/golang/data transfer methods/gRPC.md",
     "develop/golang/data transfer methods/WebSocket.md",
+    "develop/golang/golang.md",
     "develop/golang/data transfer methods/Rest API.md",
+    "develop/golang/data transfer methods/gRPC.md",
     "develop/docker/docker-compose.md",
     "develop/docker/docker.md",
     "develop/golang/data types/slice.md",
@@ -198,7 +199,6 @@
     "english/english.md",
     "english.md",
     "english",
-    "develop/golang/golang.md",
     "src/array.png",
     "src/array.png",
     "Pasted image 20240224034924.png",

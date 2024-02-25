@@ -7,4 +7,7 @@
 **data transfer methods**
 [[Rest API]]
 [[gRPC]]
+[[WebSocket]]
+
+
 
