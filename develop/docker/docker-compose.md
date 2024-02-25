@@ -1,5 +1,5 @@
 example of docker-compose.yaml
-```
+```yaml
 services:
 	database:
 		container_name: database
@@ -13,6 +13,6 @@ services:
 ```
 
 for running a multi-container group
-```
+```zsh
 docker-compose up --build
 ```
