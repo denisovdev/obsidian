@@ -21,5 +21,8 @@ brew install go
 [[gRPC]]
 [[WebSocket]]
 
+#### loops:
+[[for]]
+[[while]]
 
 
